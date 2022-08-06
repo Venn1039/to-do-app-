@@ -1,0 +1,35 @@
+iframe{
+    width: 100vw;
+    height: 100vh;
+    filter: blur(1px);
+}
+.popup{
+    width: 350px;
+    height: 170px;
+    border-radius: 5px;
+    position: absolute;
+    top: 245px;
+    left: 620px;
+    background-color: white;
+}
+.bottonn{
+    
+    position: absolute;
+    top: 130px;
+    left: 280px;
+}
+.smallbox{
+    background-color: #00A5EC;
+    width: 130px;
+    height: 30px;
+    border-radius: 2px;
+    position: absolute;
+    top: 130px;
+    left: 200px;
+}
+.backbuton{
+    position: absolute;
+    top: 10px;
+    left: 320px;
+    
+}
